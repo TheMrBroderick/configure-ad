@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ne-inc.com%2Fpost%2F2017%2F08%2F28%2FWhat-is-Microsoft-Active-Directory-and-Why-is-it-Useful&psig=AOvVaw2-fgNq8dq0BAv9K9Ih4DhU&ust=1671458818776000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNChv72rg_wCFQAAAAAdAAAAABAD](https://static.wixstatic.com/media/6a27b5_af6321a8828d4d13b7083c94254d6797~mv2.png)" alt="Active Directory logo"/>
-" alt="Active Directory logo"/>
+<img src="https://i.imgur.com/7xLtdix.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Installing an Active Directory.</h1>
