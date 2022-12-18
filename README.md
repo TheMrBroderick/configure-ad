@@ -8,7 +8,7 @@ This tutorial outlines how to install an active directory using azure.<br />
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: Installing an Active Directory](https://www.youtube.com/watch?v=54TKBqKCEFc)
 
 <h2>Environments and Technologies Used</h2>
 
