@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/7xLtdix.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Installing an Active Directory.</h1>
+<h1>Azure Installing an Active Directory.</h1>
 This tutorial outlines how to install an active directory using azure.<br />
 
 
